@@ -1,0 +1,71 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+*.la
+
+# Executables
+*.exe
+*.out
+sms
+bin/sms
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+bin/
+build/
+dist/
+
+# Editor and IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+
+# Data files (optional - uncomment if you don't want to track data)
+# data/*.json
+
+# Core dumps
+core
+core.*
+vgcore.*
+
+# Dependency files
+*.d
+*.dep
+
+# Assembly files
+*.s
+*.asm
+
+# Preprocessed files
+*.i
+*.ii
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.cmake
+
+# Backup files
+*.bak
+*.backup
+*~
