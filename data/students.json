@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "ahmed bouchiba",
+      "grades": [18.50, 14.00, 10.00],
+      "average": 14.17
+    }
+  ]
+}
