@@ -9,4 +9,4 @@ int read_int(const char *prompt);
 
 float read_float(const char *prompt);
 
-#endif 
+#endif
